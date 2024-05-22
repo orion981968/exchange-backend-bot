@@ -1,0 +1,2802 @@
+[
+	{
+		"pair": "BNB/USDT",
+		"user_id": 27
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 27
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 27
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 27
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 27
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 27
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 27
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 52
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 52
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 52
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 52
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 52
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 52
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 52
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 170
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 170
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 170
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 170
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 170
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 170
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 170
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 40
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 40
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 40
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 40
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 40
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 40
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 40
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 126
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 126
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 126
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 126
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 126
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 126
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 126
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 136
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 136
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 136
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 136
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 136
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 136
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 136
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 143
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 143
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 143
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 143
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 143
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 143
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 143
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 134
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 134
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 134
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 134
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 134
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 134
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 134
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 63
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 63
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 63
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 63
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 63
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 63
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 63
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 30
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 30
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 30
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 30
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 30
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 30
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 30
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 109
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 109
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 109
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 109
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 109
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 109
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 109
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 74
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 74
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 74
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 74
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 74
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 74
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 74
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 158
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 158
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 158
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 158
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 158
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 158
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 158
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 176
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 176
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 176
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 176
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 176
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 176
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 176
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 110
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 110
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 110
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 110
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 110
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 110
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 110
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 26
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 26
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 26
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 26
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 26
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 26
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 26
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 88
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 88
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 88
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 88
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 88
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 88
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 88
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 39
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 39
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 39
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 39
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 39
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 39
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 39
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 198
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 198
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 198
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 198
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 198
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 198
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 198
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 133
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 133
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 133
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 133
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 133
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 133
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 133
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 71
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 71
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 71
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 71
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 71
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 71
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 71
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 196
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 196
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 196
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 196
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 196
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 196
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 196
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 35
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 35
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 35
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 35
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 35
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 35
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 35
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 108
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 108
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 108
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 108
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 108
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 108
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 108
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 152
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 152
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 152
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 152
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 152
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 152
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 152
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 161
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 161
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 161
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 161
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 161
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 161
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 161
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 53
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 53
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 53
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 53
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 53
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 53
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 53
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 32
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 32
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 32
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 32
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 32
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 32
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 32
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 117
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 117
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 117
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 117
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 117
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 117
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 117
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 201
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 201
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 201
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 201
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 201
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 201
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 201
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 66
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 66
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 66
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 66
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 66
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 66
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 66
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 165
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 165
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 165
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 165
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 165
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 165
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 165
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 173
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 173
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 173
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 173
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 173
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 173
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 173
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 209
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 209
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 209
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 209
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 209
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 209
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 209
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 122
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 122
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 122
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 122
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 122
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 122
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 122
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 103
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 103
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 103
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 103
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 103
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 103
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 103
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 105
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 105
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 105
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 105
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 105
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 105
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 105
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 163
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 163
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 163
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 163
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 163
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 163
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 163
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 188
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 188
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 188
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 188
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 188
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 188
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 188
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 28
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 28
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 28
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 28
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 28
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 28
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 28
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 128
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 128
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 128
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 128
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 128
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 128
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 128
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 112
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 112
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 112
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 112
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 112
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 112
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 112
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 29
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 29
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 29
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 29
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 29
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 29
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 29
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 205
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 205
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 205
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 205
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 205
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 205
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 205
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 87
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 87
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 87
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 87
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 87
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 87
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 87
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 64
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 64
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 64
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 64
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 64
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 64
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 64
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 79
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 79
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 79
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 79
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 79
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 79
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 79
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 200
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 200
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 200
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 200
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 200
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 200
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 200
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 43
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 43
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 43
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 43
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 43
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 43
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 43
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 171
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 171
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 171
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 171
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 171
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 171
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 171
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 6
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 6
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 6
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 6
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 6
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 6
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 6
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 59
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 59
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 59
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 59
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 59
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 59
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 59
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 123
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 123
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 123
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 123
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 123
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 123
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 123
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 98
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 98
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 98
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 98
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 98
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 98
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 98
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 31
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 31
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 31
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 31
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 31
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 31
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 31
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 197
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 197
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 197
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 197
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 197
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 197
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 197
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 37
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 37
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 37
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 37
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 37
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 37
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 37
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 104
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 104
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 104
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 104
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 104
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 104
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 104
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 187
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 187
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 187
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 187
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 187
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 187
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 187
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 7
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 7
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 7
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 7
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 7
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 7
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 7
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 151
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 151
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 151
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 151
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 151
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 151
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 151
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 84
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 84
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 84
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 84
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 84
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 84
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 84
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 77
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 77
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 77
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 77
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 77
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 77
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 77
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 182
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 182
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 182
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 182
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 182
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 182
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 182
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 208
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 208
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 208
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 208
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 208
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 208
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 208
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 19
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 19
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 19
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 19
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 19
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 19
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 19
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 156
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 156
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 156
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 156
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 156
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 156
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 156
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 113
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 113
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 113
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 113
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 113
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 113
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 113
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 60
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 60
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 60
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 60
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 60
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 60
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 60
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 55
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 55
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 55
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 55
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 55
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 55
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 55
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 86
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 86
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 86
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 86
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 86
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 86
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 86
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 199
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 199
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 199
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 199
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 199
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 199
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 199
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 132
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 132
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 132
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 132
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 132
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 132
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 132
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 38
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 38
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 38
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 38
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 38
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 38
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 38
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 189
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 189
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 189
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 189
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 189
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 189
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 189
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 157
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 157
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 157
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 157
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 157
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 157
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 157
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 56
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 56
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 56
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 56
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 56
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 56
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 56
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 13
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 13
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 13
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 13
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 13
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 13
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 13
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 72
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 72
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 72
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 72
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 72
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 72
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 72
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 180
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 180
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 180
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 180
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 180
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 180
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 180
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 137
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 137
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 137
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 137
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 137
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 137
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 137
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 160
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 160
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 160
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 160
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 160
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 160
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 160
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 194
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 194
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 194
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 194
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 194
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 194
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 194
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 206
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 206
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 206
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 206
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 206
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 206
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 206
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 75
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 75
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 75
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 75
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 75
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 75
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 75
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 83
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 83
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 83
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 83
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 83
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 83
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 83
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 114
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 114
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 114
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 114
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 114
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 114
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 114
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 191
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 191
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 191
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 191
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 191
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 191
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 191
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 164
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 164
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 164
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 164
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 164
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 164
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 164
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 16
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 16
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 16
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 16
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 16
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 16
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 16
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 2
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 2
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 2
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 2
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 2
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 2
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 2
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 99
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 99
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 99
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 99
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 99
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 99
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 99
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 135
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 135
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 135
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 135
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 135
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 135
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 135
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 124
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 124
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 124
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 124
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 124
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 124
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 124
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 184
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 184
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 184
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 184
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 184
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 184
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 184
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 185
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 185
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 185
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 185
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 185
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 185
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 185
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 102
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 102
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 102
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 102
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 102
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 102
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 102
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 3
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 3
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 3
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 3
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 3
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 3
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 3
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 97
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 97
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 97
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 97
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 97
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 97
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 97
+	},
+	{
+		"pair": "BNB/USDT",
+		"user_id": 17
+	},
+	{
+		"pair": "BTC/USDT",
+		"user_id": 17
+	},
+	{
+		"pair": "ETH/USDT",
+		"user_id": 17
+	},
+	{
+		"pair": "NXV/USDT",
+		"user_id": 17
+	},
+	{
+		"pair": "NXV/ETH",
+		"user_id": 17
+	},
+	{
+		"pair": "ZNX/USDT",
+		"user_id": 17
+	},
+	{
+		"pair": "ZNX/ETH",
+		"user_id": 17
+	}
+]

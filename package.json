@@ -1,0 +1,39 @@
+{
+  "name": "exchange-backend-bot",
+  "version": "1.0.0",
+  "description": "WonWin Exchange site test bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "create-account": "node ./src/Account/create.js",
+    "buy-order": "node ./src/Order/buyOrder.js",
+    "sell-order": "node ./src/Order/sellOrder.js",
+    "trade-check": "node ./src/Trade/tradeCheck.js",
+    "add-balance": "node ./src/Account/addAccountsBalance.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WinWinExchange/exchange-backend-bot.git"
+  },
+  "keywords": [
+    "wonwin",
+    "cex",
+    "test",
+    "bot",
+    "node",
+    "js"
+  ],
+  "author": "kimiro34",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WinWinExchange/exchange-backend-bot/issues"
+  },
+  "homepage": "https://github.com/WinWinExchange/exchange-backend-bot#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "form-data": "^4.0.0",
+    "generate-password": "^1.7.0",
+    "random-email": "^1.0.3",
+    "yargs": "^17.2.1"
+  }
+}
